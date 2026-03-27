@@ -11,7 +11,7 @@
 | # | Deliverable | Status | Location |
 |---|------------|--------|----------|
 | 1 | GitHub repository | Done | [github.com/Krisanthi/pagescope](https://github.com/Krisanthi/pagescope) |
-| 2 | Runnable instructions | Done | See [README.md](README.md) - Quick Start section |
+| 2 | Deployed tool | Done | [pagescope-1.onrender.com](https://pagescope-1.onrender.com) |
 | 3 | README with architecture, AI decisions, trade-offs, improvements | Done | [README.md](README.md) |
 | 4 | Prompt logs / reasoning traces | Done | [prompt_logs/example_audit.json](prompt_logs/example_audit.json) + live in UI |
 
